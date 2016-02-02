@@ -1,4 +1,4 @@
-# 2016-JAN_python_workshop
+# Python Workshop
 
 There will be a a Python programming tutorial for the class PHYS4650. It will be open to all other students as well.
 

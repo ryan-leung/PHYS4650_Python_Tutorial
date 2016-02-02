@@ -1,5 +1,6 @@
 ##Installing Python using Macports (beginner guide)
 
+Original context : https://gist.github.com/titipata/cfae77f5f7ac7f24368d
 
 I think package management system is good for long-term installation. Since lab members use a lot of Apple product,
 I wrote Macports documentation which is package management system for Mac OSX which hopefully will be useful for members who use Mac. Note that this is not an official document but probably an easy way to get start with Macports. Macports depends mostly by its community and ones who update the port. We may have to migrate our ports when Mac announce new operating system. From my experience, it is normal to have some port problem with macports when new Mac operating system, for example, when Maverick or Yosemite was announced or when new XCode version were updated. It will

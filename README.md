@@ -1,6 +1,6 @@
 # 2016-JAN_python_workshop
 
-There will be a python workshop for physics students.
+There will be a a Python programming tutorial for the class PHYS4650. It will be open to all other students as well.
 
 >Date: Feb 3 (wed)
 

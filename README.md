@@ -2,7 +2,7 @@
 
 There will be a a Python programming tutorial for the class PHYS4650. It will be open to all other students as well.
 
-> Date: Feb 8 (Wed)
+> Date: Feb 8, 2017 (Wed)
 
 > Time: 2:30pm-4:30pm
 

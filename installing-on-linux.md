@@ -5,7 +5,7 @@
 ### From Anaconda site
 1. Download Anaconda installer for Linux from here: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 2. Choose ``Python 2.7`` or ``Python 3.6``, read
-[python2 vs python3](./python2-vs-python3)
+[python2 vs python3](./python2-vs-python3.md)
 
 ### From Anaconda repository
 1. Download Anaconda installer for Linux from here: https://repo.continuum.io/archive/ using ``wget``

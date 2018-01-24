@@ -21,8 +21,8 @@ The instructions for Python Installation with Anaconda distribution are listed a
 
 ## Python Installation with Anaconda distribution in Windows, MacOS and Linux
 
-* [Notes for Windows](./installing-on-windows)
+* [Notes for Windows](./installing-on-windows.md)
 
-* [Notes for MacOS](./installing-on-macos)
+* [Notes for MacOS](./installing-on-macos.md)
 
-* [Notes for Linux](./installing-on-linux)
+* [Notes for Linux](./installing-on-linux.md)

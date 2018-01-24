@@ -59,22 +59,17 @@ Python 2.7.14 (default, Jan  5 2018, 10:41:29)
 Type "help", "copyright", "credits" or "license" for more information.
 ```
 
-
 ## Updating conda
 
-1. Open your ``Anaconda Prompt`` from the start menu.
+1. Open a terminal.
 2. Run ``conda update anaconda``.
 
 ## Uninstalling conda
 
-1. In the Windows Control Panel, click Add or Remove Program.
-2. Select Python X.X (Anaconda).
-3. Click Remove Program.
-
-## Uninstalling conda (In Windows 10)
-
-1. Open the Start menu.
-2. Click ``Settings``.
-3. Click ``System`` on the Settings menu.
-4. Select ``Apps & features`` from the left pane.
-5. Select ``Python X.X (Anaconda)`` to uninstall.
+1. Open a terminal.
+2. Check the Anaconda installation path.
+3. Usually ``~/anacondaX/``
+4. Run ``rm -fr ~/anacondaX/``
+5. Open your ``~/.bashrc``
+6. Find and remove the line ``export PATH="/home/XXXXX/anacondaX/bin:$PATH"``
+7. Run ``source ~/.bashrc``

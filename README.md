@@ -6,15 +6,15 @@ There will be a a Python Training Workshop for the class PHYS4650. It will be op
 
 > * Date: Jan 31, 2018 (Wed)
 > * Python install session: 3:00pm - 3:30pm
-> * Python tutorial: 3:30pm-5:30pm
+> * Python tutorial: 3:30pm - 5:30pm
 > * Venue: CYMP 312
 
-The first half hour (3:00pm-3:30pm) will be for installing Python on your own computer.
+The first half hour (3:00pm - 3:30pm) will be for installing Python on your own computer.
 The second hour will be introduction to Python programming.
 The third hour will be hands-on session, feel free to join.
 The slides of the talk are included in this repository.
 
-If you want to download the material last year, you can press the ``release'' button, or go to
+If you want to download the material last year, you can go to
 [HERE](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/tree/Feb2017)
 
 The instructions for Python Installation with Anaconda distribution are listed as follows:

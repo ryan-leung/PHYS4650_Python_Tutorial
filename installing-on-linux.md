@@ -10,7 +10,7 @@
 ### From Anaconda repository
 1. Download Anaconda installer for Linux from here: https://repo.continuum.io/archive/ using ``wget``
 or from the browser.
-2. If you choose to use wget, check the latest version ``X.X.X``, open up a terminal and replace the X.X.X with the latest version.
+2. If you choose to use ``wget``, check the latest version ``X.X.X``, open up a terminal and replace the X.X.X with the latest version.
 3. For Python 2.7 :
 ``wget http://repo.continuum.io/archive/Anaconda2-X.X.X-Linux-x86_64.sh``
 4. for Python 3.x:
@@ -18,7 +18,7 @@ or from the browser.
 
 ## Installing Anaconda
 1. Open up a terminal.
-2. ``cd`` to your instaler folder.
+2. ``cd`` to your installer folder.
 3. Type ``sh ./AnacondaXXXXXXXX.sh``, where ``AnacondaXXXXXXXX.sh`` refers to the downloaded file name.
 4. Follow the instructions on the screen. Accept the
 defaults if you are not sure what to do :stuck_out_tongue:.
@@ -31,7 +31,7 @@ defaults if you are not sure what to do :stuck_out_tongue:.
 ## Anaconda ``PATH`` variable
 The Anaconda will **NOT** append the ``PATH`` variable during Linux installation. To qurantee your installation is successful, you need to check your rcfile for Bash, i.e. the ``.bashrc`` stored under the Home directory of Linux. To read the ``.bashrc``:
 1. Type ``cat ~/.bashrc`` in your terminal.
-2. If you have the following lines at the end, it means the installation is ok.
+2. If you have the following lines at the end, it means the installation is OK.
 ```
 # added by Anaconda2 installer
 export PATH="/home/XXXXX/anacondaX/bin:$PATH"
@@ -41,7 +41,7 @@ export PATH="/home/XXXXX/anacondaX/bin:$PATH"
 export PATH="/home/XXXXX/anacondaX/bin:$PATH"
 ```
 4. If you have no idea what is a text editor, open a terminal,
-type ``echo "export PATH="/home/XXXXX/anacondaX/bin:$PATH"" >> ~/.bashrc`` and enter, ofcourse replace your installation folder here.
+type ``echo "export PATH="/home/XXXXX/anacondaX/bin:$PATH"" >> ~/.bashrc`` and enter, of course you need to replace your installation folder here.
 
 ## Successful Anaconda installation
 1. Run ``source ~/.bashrc`` in the terminal.

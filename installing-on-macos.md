@@ -37,7 +37,7 @@ export PATH="/User/XXXXX/anacondaX/bin:$PATH"
 export PATH="/User/XXXXX/anacondaX/bin:$PATH"
 ```
 4. If you have no idea what is a text editor, open a terminal,
-type ``echo "export PATH="/User/XXXXX/anacondaX/bin:$PATH"" >> ~/.bash_profile`` and enter, ofcourse replace your installation folder here.
+type ``echo "export PATH="/User/XXXXX/anacondaX/bin:$PATH"" >> ~/.bash_profile`` and enter, of course you need to replace your installation folder here.
 
 ## Successful Anaconda installation
 1. Run ``source ~/.bash_profile`` in the terminal.

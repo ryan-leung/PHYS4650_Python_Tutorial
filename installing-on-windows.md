@@ -4,8 +4,7 @@
 
 1. Anaconda installer for Windows from here: [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 2. Double-click the ``.exe`` file.
-3. Follow the instructions on the screen. Accept the
-defaults if you are not sure what to do :).
+3. Follow the instructions on the screen. Accept the defaults if you are not sure what to do :).
 4. Installation is finished within 5 minutes.
 5. Click the **Start** menu, open the
    ``Anaconda Prompt`` as below.

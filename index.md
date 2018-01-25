@@ -8,7 +8,7 @@ There will be a a Python Training Workshop for the class PHYS4650. It will also 
 >
 > Python installation help-desk: 
 > 3:00pm - 3:30pm
-
+>
 > Introduction to Python talk:
 > 3:30pm - 4:30pm
 > 

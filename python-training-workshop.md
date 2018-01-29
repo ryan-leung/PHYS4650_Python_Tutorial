@@ -158,7 +158,7 @@ setup as the instruction. And the ``conda`` command in terminal is working (any
 terminal in MacOS/Linux; ``Anaconda prompt`` in MS Windows Start menu.)
 
 To search/install packages:
-* ```conda search xxxxxx```
+* ``` conda search xxxxxx```
 * ```conda install xxxxxx```
 * Other commands:
 http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf

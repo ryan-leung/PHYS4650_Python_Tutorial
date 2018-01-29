@@ -218,9 +218,12 @@ This part will be
 
 ## Good Reference
 - stackoverflow.com
+
 ![](
 https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2bb144720a66){:height="50%" width="50%"}
+
 - [Book: Python for Astronomers](http://ugastro.berkeley.edu/pydecal/textbook.pdf)
+
 ![](assets/images/pythonbook.jpg){:height="50%" width="50%"}
 
 ## Hand's on Session

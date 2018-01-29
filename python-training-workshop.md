@@ -17,8 +17,8 @@
         - [Different packages in Python](#different-packages-in-python)
         - [``conda`` : package management system for Anaconda](#conda--package-management-system-for-anaconda)
         - [``pip`` : a package management system in Python](#pip--a-package-management-system-in-python)
-    - [Package Installation via setup files](#package-installation-via-setup-files)
-    - [``virtualenv``](#virtualenv)
+        - [``virtualenv``](#virtualenv)
+        - [Create virtual Python environment in ``conda``](#create-virtual-python-environment-in-conda)
     - [Ipython / Jupyter Notebook](#ipython--jupyter-notebook)
     - [Text editors](#text-editors)
     - [Spyder](#spyder)
@@ -28,6 +28,7 @@
     - [Credits](#credits)
 
 <!-- /TOC -->
+
 
 ## Introduction
 
@@ -162,10 +163,6 @@ To search/install packages:
 * Other commands:
 http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf
 
-Demonstrations:
-
-
-
 ### ``pip`` : a package management system in Python
 The sources that ``pip`` installed can be 
 - From PyPI (Python Package Index)
@@ -178,15 +175,25 @@ To search/install packages:
 * Uninstall package : ```pip uninstall xxxxxx```
 * Install wheel package :``` pip install xxxxxx.whl```
 
-Demonstrations:
-<asciinema-player src="{{ site.baseurl }}/assets/misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
+### ``virtualenv``
+``virtualenv`` is a tool to create isolated Python environments. 
+Simply open your terminal and type 
 
+* ```virtualenv ENV```, where ENV is a directory to place the new virtual environment.
+* Example:
+  * ```virtualenv ~/newpython/```, which create a newpython directory under your home directory.
+* To use : ```source ENV/bin/activate```
+  * Example: ```source ~/newpython/bin/activate```.
+* To end and deactivate the session : ```source deactivate```
 
-## Package Installation via setup files
-
-
-## ``virtualenv``
-``virtualenv`` is a tool to create isolated Python environments
+### Create virtual Python environment in ``conda``
+``conda`` has its own version to create a seperated Python environment.
+* To create : ```conda create -n yourenvname python=x.x anaconda```
+* Example:
+  * ```conda create -n py3 python=3.6 anaconda``` to create a Python 3 environment even you are using Python 2.
+  * ```conda create -n py2 python=2.7 anaconda``` , vice versa.
+* To use : ```source activate yourenvname```
+* To end and deactivate the session : ```source deactivate```
 
 ## Ipython / Jupyter Notebook
 - [How to Start and Run a Jupyter Notebook](notebook.html)

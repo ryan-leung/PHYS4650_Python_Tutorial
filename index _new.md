@@ -1,6 +1,6 @@
 # Python Training Workshop 2018
 
-## Introduction <i class="material-icons"></i>
+## Introduction <i class="material-icons">info_outline</i>
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.
 There will be a a Python Training Workshop for the class PHYS4650. It will also be open to all other students as well.
 

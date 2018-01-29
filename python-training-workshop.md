@@ -179,7 +179,7 @@ To search/install packages:
 * Install wheel package :``` pip install xxxxxx.whl```
 
 Demonstrations:
-<asciinema-player src="_misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
+<asciinema-player src="{{ site.url }}/assets/misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
 
 
 ## Package Installation via setup files

@@ -20,7 +20,7 @@
 defaults if you are not sure what to do :stuck_out_tongue:.
 5. Installation will be finished within 5 minutes.
 6. The following line will be appeared:
-``Do you wish the installer to prepend the AnacondaX install location to PATH in your /User/XXX/.bash_profile ? [yes|no]``
+``Do you wish the installer to prepend the AnacondaX install location to PATH in your /Users/XXX/.bash_profile ? [yes|no]``
 7. If you use ``bash``, you can type ``yes`` for easy installation. Read the next session about ``PATH variable``
 8. Everything is done. Refresh your bash terminal by ``source ~/.bash_profile`` 
 
@@ -30,14 +30,14 @@ The Anaconda will **NOT** append the ``PATH`` variable during Linux installation
 2. If you have the following lines at the end, it means the installation is ok.
 ```
 # added by Anaconda2 installer
-export PATH="/User/XXXXX/anacondaX/bin:$PATH"
+export PATH="/Users/XXXXX/anacondaX/bin:$PATH"
 ```
-3. If you doesn't got this line, first check the Anaconda installation location (usually /User/XXXXX/anacondaX/) and add the following line (Replace /User/XXXXX/anacondaX/ with your installation location) to ``~/.bash_profile`` using a text editor:
+3. If you doesn't got this line, first check the Anaconda installation location (usually /Users/XXXXX/anacondaX/) and add the following line (Replace /Users/XXXXX/anacondaX/ with your installation location) to ``~/.bash_profile`` using a text editor:
 ```
-export PATH="/User/XXXXX/anacondaX/bin:$PATH"
+export PATH="/Users/XXXXX/anacondaX/bin:$PATH"
 ```
 4. If you have no idea what is a text editor, open a terminal,
-type ``echo "export PATH="/User/XXXXX/anacondaX/bin:$PATH"" >> ~/.bash_profile`` and enter, of course you need to replace your installation folder here.
+type ``echo "export PATH="/Users/XXXXX/anacondaX/bin:$PATH"" >> ~/.bash_profile`` and enter, of course you need to replace your installation folder here.
 
 ## Successful Anaconda installation
 1. Run ``source ~/.bash_profile`` in the terminal.
@@ -67,5 +67,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 3. Usually ``~/anacondaX/``
 4. Run ``rm -fr ~/anacondaX/``
 5. Open your ``~/.bash_profile``
-6. Find and remove the line ``export PATH="/User/XXXXX/anacondaX/bin:$PATH"``
+6. Find and remove the line ``export PATH="/Users/XXXXX/anacondaX/bin:$PATH"``
 7. Run ``source ~/.bash_profile``

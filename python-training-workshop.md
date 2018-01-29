@@ -181,7 +181,7 @@ To search/install packages:
 Demonstrations:
 {::nomarkdown}
 <asciinema-player src="_misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
-{:/nomarkdown}
+{:/}
 
 
 ## Package Installation via setup files

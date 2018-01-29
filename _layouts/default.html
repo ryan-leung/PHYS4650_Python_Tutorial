@@ -17,7 +17,7 @@
             href="{{ '/assets/css/print.css' | relative_url }}"
             media="print"
             type="text/css">
-        <link rel="stylesheet" type="text/css" href="/assets/css/asciinema-player.css" />
+        <link rel="stylesheet" type="text/css" href="{{ '/assets/css/asciinema-player.css' | relative_url }}"/>
         <script
             src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"
             type="text/javascript"></script>
@@ -103,7 +103,7 @@
                 });
         </script>
 
-        <script src="/assets/js/asciinema-player.js"></script>
+        <script src="{{ '/assets/js/asciinema-player.js' | relative_url }}"></script>
 
         {% if site.google_analytics %}
             <script type="text/javascript">

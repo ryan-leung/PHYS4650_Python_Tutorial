@@ -38,7 +38,7 @@ want to make some changes to the branch.)
 
 ![Python replaced Java as the second-most popular language on GitHub, with 40
 percent more pull requests opened this year than
-last.](_images/python_rank.png)
+last.](/assets/images/python_rank.png)
 
 > In 2017, Python replaced Java as the second-most popular language on GitHub,
 with 40 percent more pull requests opened this year than last. (Statistics from
@@ -179,7 +179,7 @@ To search/install packages:
 * Install wheel package :``` pip install xxxxxx.whl```
 
 Demonstrations:
-<asciinema-player src="{{ site.url }}/assets/misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
+<asciinema-player src="{{ site.baseurl }}/assets/misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
 
 
 ## Package Installation via setup files

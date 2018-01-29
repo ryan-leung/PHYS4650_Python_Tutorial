@@ -196,6 +196,8 @@ Simply open your terminal and type
 * To end and deactivate the session : ```source deactivate```
 
 ## Ipython / Jupyter Notebook
+This part will be 
+
 - [How to Start and Run a Jupyter Notebook](notebook.html)
 
 
@@ -215,6 +217,8 @@ Simply open your terminal and type
 
 
 ## Hand's on Session
+
+
 
 
 ## Credits

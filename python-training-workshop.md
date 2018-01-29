@@ -40,7 +40,7 @@ want to make some changes to the branch.)
 
 ![Python replaced Java as the second-most popular language on GitHub, with 40
 percent more pull requests opened this year than
-last.](/assets/images/python_rank.png)
+last.](assets/images/python_rank.png)
 
 > In 2017, Python replaced Java as the second-most popular language on GitHub,
 with 40 percent more pull requests opened this year than last. (Statistics from
@@ -221,7 +221,7 @@ This part will be
 ![](
 https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2bb144720a66)
 - [Book: Python for Astronomers](http://ugastro.berkeley.edu/pydecal/textbook.pdf)
-![](/assets/images/pythonbook.jpg)
+![](assets/images/pythonbook.jpg)
 
 ## Hand's on Session
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)

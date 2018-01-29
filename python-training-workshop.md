@@ -219,9 +219,9 @@ This part will be
 ## Good Reference
 - stackoverflow.com
 ![](
-https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2bb144720a66)
+https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2bb144720a66){:height="50%" width="50%"}
 - [Book: Python for Astronomers](http://ugastro.berkeley.edu/pydecal/textbook.pdf)
-![](assets/images/pythonbook.jpg)
+![](assets/images/pythonbook.jpg){:height="50%" width="50%"}
 
 ## Hand's on Session
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)

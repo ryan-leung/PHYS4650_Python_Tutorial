@@ -24,6 +24,7 @@
     - [Spyder](#spyder)
     - [Online Platforms](#online-platforms)
     - [Online Judge](#online-judge)
+    - [Good Reference](#good-reference)
     - [Hand's on Session](#hands-on-session)
     - [Credits](#credits)
 
@@ -215,9 +216,16 @@ This part will be
 ## Online Judge
 
 
+## Good Reference
+- stackoverflow.com
+![](
+https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2bb144720a66)
+- [Book: Python for Astronomers](http://ugastro.berkeley.edu/pydecal/textbook.pdf)
+
 
 ## Hand's on Session
-
+- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
+- [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
 
 
 

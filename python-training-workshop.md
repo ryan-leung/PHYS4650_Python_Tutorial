@@ -163,7 +163,7 @@ To search/install packages:
 * Install wheel package :``` pip install xxxxxx.whl```
 
 Demonstrations:
-<asciinema-player src="_misc/pip-demo.json" cols="170" rows="39"></asciinema-player>
+{::nomarkdown}<asciinema-player src="_misc/pip_demo.json" cols="170" rows="39"></asciinema-player>{:/}
 
 
 ## Package Installation via setup files

@@ -74,18 +74,34 @@ abstract than low-level language and less time to write and compile. The
 syntax can be expressed similar to English prose or mathematical equations.
 But it has relatively slower running time than some low-level language. 
 
-Quoted and simplified from:
+I find the snippet from stackoverflow.com is quite useful:
 https://stackoverflow.com/a/3468098
 
 A list of programming languages ranging from very low to very high level:
 
-* ``Machine Code`` could probably be considered the lowest level programming language.
-* ``Assembly language`` is at the level of telling the processor what to do. There is still a conversion step towards machine code.
-* ``C`` is a step up from assembler, because you get to specify what you want to do in slightly more abstract terms, but you're still fairly close to the metal.
-* ``C++`` does everything that ``C`` can do but adds the capability to abstract things away into classes.
-* ``Java/C#`` do similar things to ``C++`` in a way, but without the opportunity to do everything you can do in ``C``. They have garbage collection though, which you have to do manually in ``C++``.
-* ``Python/Ruby`` are even higher level, and let you forget about a lot of the details that you would need to specify in something like ``Java`` or ``C#``.
-* ``SQL`` is even higher level (it's declarative). Just say "Give me all the items in the table sorted by age" and it will work out the most efficient way to carry this out for you.
+* ``Machine Code`` could probably be considered the lowest level programming
+language.
+
+* ``Assembly language`` is at the level of telling the processor what to do.
+There is still a conversion step towards machine code.
+
+* ``C`` is a step up from assembler, because you get to specify what you want
+to do in slightly more abstract terms, but you're still fairly close to the
+metal.
+
+* ``C++`` does everything that ``C`` can do but adds the capability to abstract
+things away into classes.
+
+* ``Java/C#`` do similar things to ``C++`` in a way, but without the
+opportunity to do everything you can do in ``C``. They have garbage collection
+though, which you have to do manually in ``C++``.
+
+* ``Python/Ruby`` are even higher level, and let you forget about a lot of the
+details that you would need to specify in something like ``Java`` or ``C#``.
+
+* ``SQL`` is even higher level (it's declarative). Just say "Give me all the
+items in the table sorted by age" and it will work out the most efficient way
+to carry this out for you.
 
 #### Object-oriented language
 
@@ -103,10 +119,10 @@ process.
 
 #### Users of Python
 
-Python is a general-purpose language. It can solve a lot of problem that 
-a computer can solve. From numerical calculations, statistical analysis,
-to web framework and user front end, users can do them in Python. 
-Astronomy is a field that utilize and develop many Python packages.
+Python is a general-purpose language. It can solve a lot of problem that a
+computer can solve. From numerical calculations, statistical analysis, to web
+framework and user front end, users can do them in Python. Astronomy is a field
+that utilize and develop many Python packages.
 
 ## Python Installation via Anaconda
 
@@ -138,7 +154,7 @@ difficult, but you need to know the name of the package.
 Anaconda distribution have their own package management system called
 ``conda``. To use ``conda``, one should have open a proper Anaconda Python
 setup as the instruction. And the ``conda`` command in terminal is working (any
-terminal in MacOS/Linux; ``Anaconda prompt`` in MS Windows Start menu.) 
+terminal in MacOS/Linux; ``Anaconda prompt`` in MS Windows Start menu.)
 
 To search/install packages:
 * ```conda search xxxxxx```
@@ -163,7 +179,9 @@ To search/install packages:
 * Install wheel package :``` pip install xxxxxx.whl```
 
 Demonstrations:
-{::nomarkdown}<asciinema-player src="_misc/pip_demo.json" cols="170" rows="39"></asciinema-player>{:/}
+{::nomarkdown}
+<asciinema-player src="_misc/pip_demo.json" cols="170" rows="39"></asciinema-player>
+{:/nomarkdown}
 
 
 ## Package Installation via setup files

@@ -239,16 +239,19 @@ Terminal based editor:
 * emacs
 * nano
 
-{:.image-center}
+
 ![](assets/images/windows_editor.svg)
+
 {:.image-caption}
 *Notepad++ (Left) and Sublime Text (Right)*
-{:.image-caption}
+
 ![](assets/images/windows_editor2.svg)
-{:.image-center}
+
+{:.image-caption}
 *Visual Studio Code (Left) and Textmate (Right)*
-{:.image-center}
+
 ![](assets/images/windows_editor3.svg)
+
 {:.image-caption}
 *Brackets (Left) and Atom (Right)*
 
@@ -281,12 +284,12 @@ Features:
 
 ## Good Reference
 - stackoverflow.com
-
+{:.image-center}
 ![](
 https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2bb144720a66){:height="50%" width="50%"}
 
 - [Book: Python for Astronomers](http://ugastro.berkeley.edu/pydecal/textbook.pdf)
-
+{:.image-center}
 ![](assets/images/pythonbook.jpg){:height="50%" width="50%"}
 
 ## Hand's on Session

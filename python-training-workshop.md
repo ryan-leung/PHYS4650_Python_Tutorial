@@ -396,4 +396,4 @@ https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2
 This tutorial have referenced the following materials:
 - [Unidata's online-python-training](https://github.com/Unidata/online-python-training)
 - [Anaconda Installation Guide](https://conda.io/docs/user-guide/install/index.html)
-And thanks Sandy Chan for double checking the material.
+- And thanks Sandy Chan for double checking the material.

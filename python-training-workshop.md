@@ -22,6 +22,9 @@
     - [Jupyter Notebook](#jupyter-notebook)
         - [Open Jupyter in Windows](#open-jupyter-in-windows)
         - [Open Jupyter in Linux/MacOS](#open-jupyter-in-linuxmacos)
+    - [Hand's on Session](#hands-on-session)
+        - [First Session:](#first-session)
+        - [Second Session:](#second-session)
     - [Other ways to run Python](#other-ways-to-run-python)
         - [Python interpreter](#python-interpreter)
         - [Running a python script](#running-a-python-script)
@@ -29,10 +32,8 @@
         - [Spyder](#spyder)
         - [Online Platforms](#online-platforms)
     - [Train Your Python in spare time](#train-your-python-in-spare-time)
+        - [Online Judge](#online-judge)
     - [Good Reference Material](#good-reference-material)
-    - [Hand's on Session](#hands-on-session)
-        - [First Session:](#first-session)
-        - [Second Session:](#second-session)
     - [Credits](#credits)
 
 <!-- /TOC -->
@@ -205,6 +206,28 @@ Simply open your terminal and type
 
 ### Open Jupyter in Linux/MacOS
 
+
+## Hand's on Session
+
+The hand's on session requires a working python installations with jupyter installed. The following links are read-only, they do not run calculations in your computer. In case you would like to have a copy, run the following command in your computer (Linux and Mac):
+```bash
+git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
+```
+These Jupyter notebooks are stored under `notebook` sub-directory.
+
+### First Session:
+- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
+- [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
+- [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-data-structures.ipynb)
+- [Python Conditionals And Loops](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-conditionals-and-loops.ipynb)
+- [Python Functions And Class](https://www.google.com)
+
+### Second Session:
+- [Python plotting with matplotlib](https://www.google.com)
+- [Python plotting with Astropy](https://www.google.com)
+- [Python data analysis with Pandas](https://www.google.com)
+- [Problem solving](https://www.google.com)
+
 ## Other ways to run Python
 
 ### Python interpreter
@@ -275,6 +298,7 @@ Features:
 
 ![](https://github.com/spyder-ide/spyder/blob/master/img_src/screenshot.png)
 
+
 ### Online Platforms
 Here are some online Python platform that are quite good indeed.
 
@@ -296,8 +320,40 @@ repl.it, an editor + python interpreter
 Microsoft Azure Notebooks, full stock Jupyter notebook
 
 ## Train Your Python in spare time
- - Online Judge
 
+### Online Judge
+
+An online judge is an online system to test programs in programming contests.
+They can also be used to practice your programming skills. Their system can
+compile and execute code. They provide some pre-constructed data and your
+submitted code will test against those data and the output will be captured and
+test against their model answer. If your algorithm (method) is correct and the
+code has correct syntax, your code shall meet the time limit and memory limit
+of their system. Some online judge rank the user answers against other users
+for comparison.
+
+* [Sphere Online Judge (SPOJ)](http://www.spoj.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [CodeAcademy](https://www.codecademy.com/)
+* [Aizu Online Judge (AOJ)](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
+
+{:.image-center}
+![SPOJ](assets/images/onlinejudge-spoj.png)
+
+{:.image-caption}
+Sphere Online Judge (SPOJ)
+
+{:.image-center}
+![HackerRank](assets/images/onlinejudge-hackerrank.png)
+
+{:.image-caption}
+HackerRank
+
+{:.image-center}
+![AOJ](assets/images/onlinejudge-aoj.png)
+
+{:.image-caption}
+Aizu Online Judge (AOJ)
 
 ## Good Reference Material
 - stackoverflow.com
@@ -310,27 +366,6 @@ https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2
 
 {:.image-center}
 ![](assets/images/pythonbook.jpg){:height="50%" width="50%"}
-
-## Hand's on Session
-
-The hand's on session requires a working python installations with jupyter installed. The following links are read-only, they do not run calculations in your computer. In case you would like to have a copy, run the following command in your computer (Linux and Mac):
-```bash
-git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
-```
-These Jupyter notebooks are stored under `notebook` sub-directory.
-
-### First Session:
-- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
-- [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
-- [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-data-structures.ipynb)
-- [Python Conditionals And Loops](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-conditionals-and-loops.ipynb)
-- [Python Functions And Class](https://www.google.com)
-
-### Second Session:
-- [Python plotting with matplotlib](https://www.google.com)
-- [Python plotting with Astropy](https://www.google.com)
-- [Python data analysis with Pandas](https://www.google.com)
-- [Problem solving](https://www.google.com)
 
 ## Credits
 This tutorial have referenced the following materials:

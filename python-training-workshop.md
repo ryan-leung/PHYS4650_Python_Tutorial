@@ -28,8 +28,8 @@
         - [Text editors for python scripts](#text-editors-for-python-scripts)
         - [Spyder](#spyder)
         - [Online Platforms](#online-platforms)
-    - [Train Python in spare time](#train-python-in-spare-time)
-    - [Good Reference](#good-reference)
+    - [Train Your Python in spare time](#train-your-python-in-spare-time)
+    - [Good Reference Material](#good-reference-material)
     - [Hand's on Session](#hands-on-session)
     - [Credits](#credits)
 
@@ -278,11 +278,11 @@ Features:
 
 
 
-## Train Python in spare time
+## Train Your Python in spare time
  - Online Judge
 
 
-## Good Reference
+## Good Reference Material
 - stackoverflow.com
 {:.image-center}
 ![](

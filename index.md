@@ -1,6 +1,6 @@
 # Python Training Workshop 2018
 
-# `goo.gl/grrXQJ`
+![](/assets/images/link.svg)
 
 ## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.

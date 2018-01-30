@@ -13,17 +13,18 @@
             - [Interpreted language](#interpreted-language)
             - [Users of Python](#users-of-python)
     - [Python Installation via Anaconda](#python-installation-via-anaconda)
-    - [Packages](#packages)
+    - [Python Packages](#python-packages)
         - [Different packages in Python](#different-packages-in-python)
         - [``conda`` : package management system for Anaconda](#conda--package-management-system-for-anaconda)
         - [``pip`` : a package management system in Python](#pip--a-package-management-system-in-python)
         - [``virtualenv``](#virtualenv)
         - [Create virtual Python environment in ``conda``](#create-virtual-python-environment-in-conda)
-    - [Ipython / Jupyter Notebook](#ipython--jupyter-notebook)
-    - [Text editors](#text-editors)
-    - [Spyder](#spyder)
-    - [Online Platforms](#online-platforms)
-    - [Online Judge](#online-judge)
+    - [Jupyter Notebook](#jupyter-notebook)
+    - [Other ways to run Python](#other-ways-to-run-python)
+        - [Text editors](#text-editors)
+        - [Spyder](#spyder)
+        - [Online Platforms](#online-platforms)
+    - [Train Python in spare time](#train-python-in-spare-time)
     - [Good Reference](#good-reference)
     - [Hand's on Session](#hands-on-session)
     - [Credits](#credits)
@@ -136,7 +137,7 @@ Please refers to the following instructions:
 - [Installing Python on Microsoft Windows](installing-on-windows.md)
 - [Installing Python on Linux](installing-on-linux.md)
 
-## Packages
+## Python Packages
 
 The term "package" refers to a distribution of a bundle of Python software.
 Don't mix this ''distribution'' up with a larger distribution of software as
@@ -165,9 +166,6 @@ To search/install packages:
 http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf
 
 ### ``pip`` : a package management system in Python
-The sources that ``pip`` installed can be 
-- From PyPI (Python Package Index)
-- From
 
 To search/install packages:
 * Search package : ```pip search xxxxxx```
@@ -188,7 +186,7 @@ Simply open your terminal and type
 * To end and deactivate the session : ```source deactivate```
 
 ### Create virtual Python environment in ``conda``
-``conda`` has its own version to create a seperated Python environment.
+``conda`` has its own version to create a separated Python environment.
 * To create : ```conda create -n yourenvname python=x.x anaconda```
 * Example:
   * ```conda create -n py3 python=3.6 anaconda``` to create a Python 3 environment even you are using Python 2.
@@ -196,24 +194,22 @@ Simply open your terminal and type
 * To use : ```source activate yourenvname```
 * To end and deactivate the session : ```source deactivate```
 
-## Ipython / Jupyter Notebook
-This part will be 
+## Jupyter Notebook
 
 - [How to Start and Run a Jupyter Notebook](notebook.html)
 
+## Other ways to run Python
 
-## Text editors
+### Text editors
 
+### Spyder
 
-## Spyder
-
-
-
-## Online Platforms
+### Online Platforms
 
 
 
-## Online Judge
+## Train Python in spare time
+ - Online Judge
 
 
 ## Good Reference
@@ -232,7 +228,7 @@ The hand's on session requires a working python installations with jupyter insta
 ```bash
 git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
 ```
-These Jupyter notebooks are stored under `notebook` subdirectory.
+These Jupyter notebooks are stored under `notebook` sub-directory.
 
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
 - [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)

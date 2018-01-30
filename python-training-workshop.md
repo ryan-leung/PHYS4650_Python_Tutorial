@@ -182,7 +182,7 @@ Simply open your terminal and type
 
 * ```virtualenv ENV```, where ENV is a directory to place the new virtual environment.
 * Example:
-  * ```virtualenv ~/newpython/```, which create a newpython directory under your home directory.
+  * ```virtualenv ~/newpython/```, which create a `newpython` directory under your home directory.
 * To use : ```source ENV/bin/activate```
   * Example: ```source ~/newpython/bin/activate```.
 * To end and deactivate the session : ```source deactivate```
@@ -246,4 +246,4 @@ These Jupyter notebooks are stored under `notebook` subdirectory.
 ## Credits
 This tutorial have referenced the following materials:
 - [Unidata's online-python-training](https://github.com/Unidata/online-python-training)
-- [Anaconda Instllation Guide](https://conda.io/docs/user-guide/install/index.html)
+- [Anaconda Installation Guide](https://conda.io/docs/user-guide/install/index.html)

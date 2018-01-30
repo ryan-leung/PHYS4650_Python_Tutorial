@@ -31,10 +31,11 @@
     - [Train Your Python in spare time](#train-your-python-in-spare-time)
     - [Good Reference Material](#good-reference-material)
     - [Hand's on Session](#hands-on-session)
+        - [First Session:](#first-session)
+        - [Second Session:](#second-session)
     - [Credits](#credits)
 
 <!-- /TOC -->
-
 
 ## Introduction
 
@@ -302,13 +303,14 @@ git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
 ```
 These Jupyter notebooks are stored under `notebook` sub-directory.
 
-First Session:
+### First Session:
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
 - [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
 - [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-data-structures.ipynb)
 - [Python Conditionals And Loops](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-conditionals-and-loops.ipynb)
 - [Python Functions And Class](https://www.google.com)
-Second Session:
+
+### Second Session:
 - [Python plotting with matplotlib](https://www.google.com)
 - [Python plotting with Astropy](https://www.google.com)
 - [Python data analysis with Pandas](https://www.google.com)

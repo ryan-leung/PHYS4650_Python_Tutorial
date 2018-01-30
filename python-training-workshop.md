@@ -233,20 +233,20 @@ Click the ``Jupyter Notebook`` shortcut (Recommended). Or start the ``Anaconda N
 
 ## Hand's on Session
 
-The hand's on session requires a working python installations with jupyter installed. The following links are read-only, they do not run calculations in your computer. 
+The hand's on session requires a working python installations with Jupyter installed. The following links are read-only, they do not run calculations in your computer. 
 
 ### First Session:
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
 - [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
 - [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-data-structures.ipynb)
 - [Python Conditionals And Loops](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-conditionals-and-loops.ipynb)
-- [Python Functions And Class](https://www.google.com)
 
 ### Second Session:
-- [Python plotting with matplotlib](https://www.google.com)
-- [Python plotting with Astropy](https://www.google.com)
-- [Python data analysis with Pandas](https://www.google.com)
-- [Problem solving](https://www.google.com)
+- [Python Functions and Class](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-functions-class.ipynb)
+- [Python plotting with matplotlib](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-matplotlib.ipynb)
+- [Python plotting with Astropy and AplPy](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-astropy-aplpy.ipynb)
+- [Python data analysis with Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-pandas.ipynb)
+- [Problem solving](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/)
 
 In case you would like to have a copy, run the following command in your computer (Linux and Mac):
 ```bash

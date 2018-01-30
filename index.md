@@ -1,6 +1,8 @@
 # Python Training Workshop 2018
 
-## Introduction
+# `goo.gl/grrXQJ`
+
+## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.
 There will be a a Python Training Workshop for the class PHYS4650. It will also be open to all other students as well.
 
@@ -36,3 +38,7 @@ The instructions for Python Installation with Anaconda distribution are listed a
 * [Notes for MacOS](./installing-on-macos.md)
 
 * [Notes for Linux](./installing-on-linux.md)
+
+![](/assets/images/ic_get_app_black_48px.svg)
+
+## [Main Content](./python-training-workshop.md)

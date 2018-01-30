@@ -216,6 +216,8 @@ your result quick and taking care-less of your overall programming beauty. It
 also runs on a server-client mode that is capable of remote accessing and
 adapted to today's cloud and mobile approach.
 
+![jupyter_logo](assets/images/jupyter_logo.svg)
+
 ### Open Jupyter in Linux/MacOS
 Type 
 ```bash

@@ -20,6 +20,7 @@
         - [``virtualenv``](#virtualenv)
         - [Create virtual Python environment in ``conda``](#create-virtual-python-environment-in-conda)
     - [Jupyter Notebook](#jupyter-notebook)
+        - [What does Jupyter Notebook do](#what-does-jupyter-notebook-do)
         - [Open Jupyter in Linux/MacOS](#open-jupyter-in-linuxmacos)
         - [Open Jupyter in Windows](#open-jupyter-in-windows)
     - [Hand's on Session](#hands-on-session)
@@ -201,6 +202,19 @@ Simply open your terminal and type
 * To end and deactivate the session : ```source deactivate```
 
 ## Jupyter Notebook
+
+### What does Jupyter Notebook do
+
+You may want to run a Jupyter notebook when:
+* You want to try out a new experiment or analysis with an existing Jupyter notebook from someone.
+* You want to develop an algorithm that run on a large software.
+* You have only ten minutes to download a data, plot a graph and send the email to your supervisor in a neat format.
+
+The interface of Jupyter notebook different from traditional programming with
+its code blocks implementations. These code blocks design enable you to get
+your result quick and taking care-less of your overall programming beauty. It
+also runs on a server-client mode that is capable of remote accessing and
+adapted to today's cloud and mobile approach.
 
 ### Open Jupyter in Linux/MacOS
 Type 

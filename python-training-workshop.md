@@ -224,7 +224,7 @@ First, get yourself a text editor.
 Avoid using old-school editor like the notepad.
 ![](assets/images/schoolold_editor.svg)
 
-Proper text editor:
+Proper text editor with syntax highlighting:
 * [Notepad++](https://notepad-plus-plus.org/) (Windows)
 * [Sublime Text](https://www.sublimetext.com/) (Windows, MacOS, Linux)
 * [Atom](https://atom.io/) (Windows, MacOS, Linux), developed by GitHub.
@@ -240,12 +240,15 @@ Terminal based editor:
 * nano
 
 ![](assets/images/windows_editor.svg)
+
 {:.image-caption}
 *Notepad++ (Left) and Sublime Text (Right)*
 ![](assets/images/windows_editor2.svg)
+
 {:.image-caption}
 *Visual Studio Code (Left) and Textmate (Right)*
 ![](assets/images/windows_editor3.svg)
+
 {:.image-caption}
 *Brackets (Left) and Atom (Right)*
 

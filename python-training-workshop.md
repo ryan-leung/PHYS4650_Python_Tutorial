@@ -285,9 +285,15 @@ Here are some online Python platform that are quite good indeed.
 {:.image-center}
 ![repl.it](assets/images/repl.it.png)
 
+{:.image-caption}
+repl.it, an editor + python interpreter
+
 {:.image-center}
 ![azure-notebook](assets/images/azure-notebook.png)
 ![azure-notebook1](assets/images/azure-notebook1.png)
+
+{:.image-caption}
+Microsoft Azure Notebooks, full stock Jupyter notebook
 
 ## Train Your Python in spare time
  - Online Judge

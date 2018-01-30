@@ -239,16 +239,19 @@ Terminal based editor:
 * emacs
 * nano
 
-{:.image-caption}
+{:.image-center}
 ![](assets/images/windows_editor.svg)
+{:.image-caption}
 *Notepad++ (Left) and Sublime Text (Right)*
-
+{:.image-caption}
 ![](assets/images/windows_editor2.svg)
+{:.image-center}
 *Visual Studio Code (Left) and Textmate (Right)*
-
+{:.image-center}
 ![](assets/images/windows_editor3.svg)
+{:.image-caption}
 *Brackets (Left) and Atom (Right)*
-{:.}
+
 
 ### Spyder
 

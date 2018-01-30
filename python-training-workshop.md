@@ -20,8 +20,8 @@
         - [``virtualenv``](#virtualenv)
         - [Create virtual Python environment in ``conda``](#create-virtual-python-environment-in-conda)
     - [Jupyter Notebook](#jupyter-notebook)
-        - [Open Jupyter in Windows](#open-jupyter-in-windows)
         - [Open Jupyter in Linux/MacOS](#open-jupyter-in-linuxmacos)
+        - [Open Jupyter in Windows](#open-jupyter-in-windows)
     - [Hand's on Session](#hands-on-session)
         - [First Session:](#first-session)
         - [Second Session:](#second-session)
@@ -202,9 +202,17 @@ Simply open your terminal and type
 
 ## Jupyter Notebook
 
-### Open Jupyter in Windows
-
 ### Open Jupyter in Linux/MacOS
+Type 
+```bash
+jupyter notebook
+```
+![linux_jupyter](assets/images/linux_jupyter.svg)
+
+### Open Jupyter in Windows
+Open your Start menu, goes to ``Anaconda`` Folder,
+Click the ``Jupyter Notebook`` shortcut (Recommended). Or start the ``Anaconda Navigator`` and ``Launch``
+![windows_jupyter](assets/images/windows_jupyter.svg)
 
 
 ## Hand's on Session
@@ -248,7 +256,7 @@ First, get yourself a text editor.
 Avoid using old-school editor like the notepad.
 ![](assets/images/schoolold_editor.svg)
 
-Proper text editor with syntax highlighting:
+A good text editor with syntax highlighting will save your life:
 * [Notepad++](https://notepad-plus-plus.org/) (Windows)
 * [Sublime Text](https://www.sublimetext.com/) (Windows, MacOS, Linux)
 * [Atom](https://atom.io/) (Windows, MacOS, Linux), developed by GitHub.
@@ -262,7 +270,6 @@ Terminal based editor:
 * vim
 * emacs
 * nano
-
 
 ![](assets/images/windows_editor.svg)
 

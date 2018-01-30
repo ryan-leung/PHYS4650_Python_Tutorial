@@ -20,6 +20,8 @@
         - [``virtualenv``](#virtualenv)
         - [Create virtual Python environment in ``conda``](#create-virtual-python-environment-in-conda)
     - [Jupyter Notebook](#jupyter-notebook)
+        - [Open Jupyter in Windows](#open-jupyter-in-windows)
+        - [Open Jupyter in Linux/MacOS](#open-jupyter-in-linuxmacos)
     - [Other ways to run Python](#other-ways-to-run-python)
         - [Python interpreter](#python-interpreter)
         - [Running a python script](#running-a-python-script)
@@ -198,7 +200,9 @@ Simply open your terminal and type
 
 ## Jupyter Notebook
 
-- [How to Start and Run a Jupyter Notebook](notebook.html)
+### Open Jupyter in Windows
+
+### Open Jupyter in Linux/MacOS
 
 ## Other ways to run Python
 

@@ -21,7 +21,9 @@
         - [Create virtual Python environment in ``conda``](#create-virtual-python-environment-in-conda)
     - [Jupyter Notebook](#jupyter-notebook)
     - [Other ways to run Python](#other-ways-to-run-python)
-        - [Text editors](#text-editors)
+        - [Python interpreter](#python-interpreter)
+        - [Running a python script](#running-a-python-script)
+        - [Text editors for python scripts](#text-editors-for-python-scripts)
         - [Spyder](#spyder)
         - [Online Platforms](#online-platforms)
     - [Train Python in spare time](#train-python-in-spare-time)
@@ -200,9 +202,60 @@ Simply open your terminal and type
 
 ## Other ways to run Python
 
-### Text editors
+### Python interpreter
+For Linux / OSX, type ```python``` in terminal.
+For windows, open ```Anaconda``` folder in Start menu. 
+
+### Running a python script
+You can always check the python version by running its interpreter.
+
+A common shebang line used for the Python interpreter is as follows:
+```#!/usr/bin/env python```
+
+You must then make the script executable, using the following command:
+```chmod +x xxxxxxxxx.py```
+
+### Text editors for python scripts
+First, get yourself a text editor.
+Avoid using old-school editor like the notepad.
+![](assets/images/schoolold_editor.svg)
+
+Proper text editor:
+* [Notepad++](https://notepad-plus-plus.org/) (Windows)
+* [Sublime Text](https://www.sublimetext.com/) (Windows, MacOS, Linux)
+* [Atom](https://atom.io/) (Windows, MacOS, Linux), developed by GitHub.
+* [Brackets](http://brackets.io/) (Windows, MacOS, Linux), developed by Adobe.
+* [Visual Studio Code](http://macromates.com/) (Windows, MacOS, Linux), developed by Microsoft.
+* [Textmate]() (MacOS)
+* [gedit]() (MacOS)
+* [Geany]() (Linux)
+
+Terminal based editor:
+* vim
+* emacs
+* nano
+
+![](assets/images/windows_editor.svg)
+![](assets/images/windows_editor2.svg)
+![](assets/images/windows_editor3.svg)
 
 ### Spyder
+
+![](assets/images/spyder_bbg.png)
+
+Spyder - The **S**cientific **PY**thon **D**evelopment **E**nvi**R**onment
+
+Features:
+
+- Editor
+- Interactive console
+- Documentation viewer
+- Variable explorer
+- Find in files
+- File explorer
+- History log
+
+![](https://github.com/spyder-ide/spyder/blob/master/img_src/screenshot.png)
 
 ### Online Platforms
 

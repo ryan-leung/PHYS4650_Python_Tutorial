@@ -276,8 +276,18 @@ Features:
 ![](https://github.com/spyder-ide/spyder/blob/master/img_src/screenshot.png)
 
 ### Online Platforms
+Here are some online Python platform that are quite good indeed.
 
+- [c9.io]()
+- [repl.it](https://repl.it/)
+- [Microsoft Azure Notebooks](https://notebooks.azure.com/)
 
+{:.image-center}
+![repl.it](assets/images/repl.it.png)
+
+{:.image-center}
+![azure-notebook](assets/images/azure-notebook.png)
+![azure-notebook1](assets/images/azure-notebook1.png)
 
 ## Train Your Python in spare time
  - Online Judge

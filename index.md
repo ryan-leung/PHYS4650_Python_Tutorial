@@ -1,6 +1,6 @@
 # Python Training Workshop 2018
 
-![](/assets/images/link.svg)
+![](assets/images/link.svg)
 
 ## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.
@@ -39,6 +39,6 @@ The instructions for Python Installation with Anaconda distribution are listed a
 
 * [Notes for Linux](./installing-on-linux.md)
 
-![](/assets/images/ic_get_app_black_48px.svg)
+![](assets/images/ic_get_app_black_48px.svg)
 
 ## [Main Content](./python-training-workshop.md)

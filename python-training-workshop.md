@@ -240,8 +240,14 @@ Terminal based editor:
 * nano
 
 ![](assets/images/windows_editor.svg)
+{:.image-caption}
+*Notepad++ (Left) and Sublime Text (Right)*
 ![](assets/images/windows_editor2.svg)
+{:.image-caption}
+*Visual Studio Code (Left) and Textmate (Right)*
 ![](assets/images/windows_editor3.svg)
+{:.image-caption}
+*Brackets (Left) and Atom (Right)*
 
 ### Spyder
 

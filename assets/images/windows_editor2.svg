@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,17 +10,64 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="174.49185mm"
+   height="61.470852mm"
+   viewBox="0 0 174.49185 61.470852"
    version="1.1"
-   viewBox="0 0 671.6186 236.60109"
-   stroke-miterlimit="10"
-   id="svg35"
-   sodipodi:docname="windows_editor2.svg"
-   width="671.61859"
-   height="236.60109"
-   style="fill:none;stroke:none;stroke-linecap:square;stroke-miterlimit:10"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   id="svg837"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="windows_editor2.svg">
+  <defs
+     id="defs831">
+    <clipPath
+       id="p.1">
+      <path
+         d="M 0,0 H 456 V 345 H 0 Z"
+         id="path13"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       id="p.1-3">
+      <path
+         d="M 0,0 H 617 V 520 H 0 Z"
+         id="path17"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       id="p.2">
+      <path
+         d="M 53.18939,31.38383 H 799.18365 V 482.94975 H 53.18939 Z"
+         id="path26"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="484.73025"
+     inkscape:cy="199.67037"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1362"
+     inkscape:window-height="721"
+     inkscape:window-x="0"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0" />
   <metadata
-     id="metadata41">
+     id="metadata834">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -29,72 +78,25 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs39" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1362"
-     inkscape:window-height="721"
-     id="namedview37"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="0.51174687"
-     inkscape:cx="24.426364"
-     inkscape:cy="143.5814"
-     inkscape:window-x="0"
-     inkscape:window-y="45"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g33" />
-  <clipPath
-     id="p.0">
-    <path
-       d="M 0,0 H 672.20734 V 288.45932 H 0 Z"
-       id="path2"
-       inkscape:connector-curvature="0"
-       style="clip-rule:nonzero" />
-  </clipPath>
   <g
-     clip-path="url(#p.0)"
-     id="g33"
-     transform="translate(2.2572178e-4,-51.209968)">
-    <path
-       d="M 0,0 H 672.20734 V 288.45932 H 0 Z"
-       id="path5"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0;fill-rule:evenodd" />
-    <path
-       d="M 0,0 H 280.7244 V 51.212597 H 0 Z"
-       id="path11"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0;fill-rule:evenodd" />
-    <path
-       d="M -2.2572179e-4,51.20997 H 280.73735 v 236.6011 H -2.2572179e-4 Z"
-       id="path15"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0;fill-rule:evenodd" />
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.8474467,-106.34493)">
     <g
-       transform="matrix(0.4550042,0,0,0.4550021,-2.2572178e-4,51.209968)"
+       style="fill:none;stroke:none;stroke-linecap:square;stroke-miterlimit:10"
+       transform="matrix(0.11821371,0,0,0.11821316,-7.8474467,106.34493)"
        id="g22">
       <clipPath
-         id="p.1">
+         id="clipPath840">
         <path
            d="M 0,0 H 617 V 520 H 0 Z"
-           id="path17"
+           id="path838"
            inkscape:connector-curvature="0"
            style="clip-rule:evenodd" />
       </clipPath>
       <image
-         clip-path="url(#p.1)"
+         clip-path="url(#p.1-3)"
          width="617"
          height="520"
          x="0"
@@ -104,19 +106,15 @@
          id="image20"
          style="fill:#000000" />
     </g>
-    <path
-       d="M 280.73752,51.209976 H 671.61835 V 287.81107 H 280.73752 Z"
-       id="path24"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0;fill-rule:evenodd" />
     <g
-       transform="matrix(0.52397299,0,0,0.52395691,252.86773,34.7662)"
+       style="fill:none;stroke:none;stroke-linecap:square;stroke-miterlimit:10"
+       transform="matrix(0.13613235,0,0,0.13612818,57.84966,102.07271)"
        id="g31">
       <clipPath
-         id="p.2">
+         id="clipPath846">
         <path
            d="M 53.18939,31.38383 H 799.18365 V 482.94975 H 53.18939 Z"
-           id="path26"
+           id="path844"
            inkscape:connector-curvature="0"
            style="clip-rule:evenodd" />
       </clipPath>

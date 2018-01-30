@@ -185,7 +185,7 @@ To search/install packages:
 ``virtualenv`` is a tool to create isolated Python environments. 
 Simply open your terminal and type 
 
-* ```virtualenv ENV```, where ENV is a directory to place the new virtual environment.
+* ```virtualenv ENV```, where ``ENV`` is a directory to place the new virtual environment.
 * Example:
   * ```virtualenv ~/newpython/```, which create a `newpython` directory under your home directory.
 * To use : ```source ENV/bin/activate```
@@ -380,6 +380,7 @@ HackerRank
 {:.image-caption}
 Aizu Online Judge (AOJ)
 
+
 ## Good Reference Material
 - stackoverflow.com
 
@@ -391,6 +392,7 @@ https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg?v=2
 
 {:.image-center}
 ![](assets/images/pythonbook.jpg){:height="50%" width="50%"}
+
 
 ## Credits
 This tutorial have referenced the following materials:

@@ -66,7 +66,7 @@ calculations and data reductions which rely heavily on efficient program. And
 sometimes, research students are required to code themselves. 
 
 ### Python as a versatile language
-
+![Python logo.](assets/images/Python-logo-notext.svg)
 Python is a **high-level** ,**object-oriented** and **Interpreted** programming language.  
 
 #### High-level language

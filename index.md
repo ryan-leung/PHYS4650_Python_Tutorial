@@ -41,6 +41,4 @@ The instructions for Python Installation with Anaconda distribution are listed a
 
 * [Notes for Linux](./installing-on-linux.md)
 
-![](assets/images/ic_get_app_black_48px.svg)
-
 ## [Talk material](./python-training-workshop.md)

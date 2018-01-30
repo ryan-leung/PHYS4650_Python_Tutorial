@@ -302,14 +302,17 @@ git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
 ```
 These Jupyter notebooks are stored under `notebook` sub-directory.
 
+First Session:
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
 - [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
 - [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-data-structures.ipynb)
 - [Python Conditionals And Loops](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-conditionals-and-loops.ipynb)
 - [Python Functions And Class](https://www.google.com)
+Second Session:
 - [Python plotting with matplotlib](https://www.google.com)
-- [Problem solving example 1](https://www.google.com)
-- [Problem solving example 2](https://www.google.com)
+- [Python plotting with Astropy](https://www.google.com)
+- [Python data analysis with Pandas](https://www.google.com)
+- [Problem solving](https://www.google.com)
 
 ## Credits
 This tutorial have referenced the following materials:

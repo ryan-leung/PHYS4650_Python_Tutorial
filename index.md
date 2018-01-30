@@ -4,6 +4,8 @@
 
 ## [Talk material](./python-training-workshop.md)
 
+## [Talk Slides](./python_tutorial.pdf)
+
 ## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.
 There will be a a Python Training Workshop for the class PHYS4650. It will also be open to all other students as well.

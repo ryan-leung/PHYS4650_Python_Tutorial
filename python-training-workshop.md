@@ -166,7 +166,7 @@ setup as the instruction. And the ``conda`` command in terminal is working (any
 terminal in MacOS/Linux; ``Anaconda prompt`` in MS Windows Start menu.)
 
 To search/install packages:
-* ``` conda search xxxxxx```
+* ```conda search xxxxxx```
 * ```conda install xxxxxx```
 * Other commands:
 http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf
@@ -217,11 +217,7 @@ Click the ``Jupyter Notebook`` shortcut (Recommended). Or start the ``Anaconda N
 
 ## Hand's on Session
 
-The hand's on session requires a working python installations with jupyter installed. The following links are read-only, they do not run calculations in your computer. In case you would like to have a copy, run the following command in your computer (Linux and Mac):
-```bash
-git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
-```
-These Jupyter notebooks are stored under `notebook` sub-directory.
+The hand's on session requires a working python installations with jupyter installed. The following links are read-only, they do not run calculations in your computer. 
 
 ### First Session:
 - [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
@@ -235,6 +231,12 @@ These Jupyter notebooks are stored under `notebook` sub-directory.
 - [Python plotting with Astropy](https://www.google.com)
 - [Python data analysis with Pandas](https://www.google.com)
 - [Problem solving](https://www.google.com)
+
+In case you would like to have a copy, run the following command in your computer (Linux and Mac):
+```bash
+git clone --depth 1 https://github.com/ryan-leung/PHYS4650_Python_Tutorial
+```
+These Jupyter notebooks are stored under `notebook` sub-directory.
 
 ## Other ways to run Python
 
@@ -253,7 +255,7 @@ You must then make the script executable, using the following command:
 
 ### Text editors for python scripts
 First, get yourself a text editor.
-Avoid using old-school editor like the notepad.
+No old-school editor like the ``notepad`` anymore.
 ![](assets/images/schoolold_editor.svg)
 
 A good text editor with syntax highlighting will save your life:

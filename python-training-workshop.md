@@ -245,7 +245,7 @@ The hand's on session requires a working python installations with Jupyter insta
 - [Python Functions and Class](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-functions-class.ipynb)
 - [Python plotting with matplotlib](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-matplotlib.ipynb)
 - [Python plotting with Astropy and AplPy](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-astropy-aplpy.ipynb)
-- [Python data analysis with Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-pandas.ipynb)
+- [Python data analysis with Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-pandas-data-analysis.ipynb)
 - [Problem solving](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/)
 
 In case you would like to have a copy, run the following command in your computer (Linux and Mac):

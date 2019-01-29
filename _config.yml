@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 plugins:
   - jemoji
   - nomarkdown
-title: [Python Training Workshop 2018]
+title: [Python Training Workshop 2019]
 description: [Learning Python for Astronomy]

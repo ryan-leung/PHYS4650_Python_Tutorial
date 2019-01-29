@@ -8,7 +8,7 @@
 
 ## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.
-There will be a a Python Training Workshop for the class PHYS4650. It will also be open to all other students as well.
+Here are the information of this year:
 
 > Date: Feb 1, 2019 (Thu)
 >
@@ -25,13 +25,18 @@ There will be a a Python Training Workshop for the class PHYS4650. It will also 
 >
 > Website and announcement : http://ryan-leung.github.io/PHYS4650_Python_Tutorial/
 
-The first half hour (4:00pm - 4:30pm) will be for installing Python on your own computer, please try to install Python on your computer before coming to this session. The instructions will be available below. Some videos will also be put up later. We will try to solve your installation problem in the first half an hour. 
+The first half hour (4:00pm - 4:30pm) will be for installing Python on your own
+computer, please try to install Python on your computer before coming to this
+session. We will try to solve your installation problem in the first half an
+hour.
 
 The second session (4:30pm - 5:30pm) will be a talk on introduction to Python programming. 
-The third session (5:30pm - 6:30pm) will be hands-on session, feel free to join and practice.
+The third session (5:30pm - 6:30pm) will be hands-on session on data analysis, feel free 
+to join and practice.
 
 If you want to download the material last year, you can press the ``release'' button, or go to
-[HERE](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/tree/Feb2017)
+* [Feb 2017](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/archive/Feb2017.zip)
+* [Jan 2018](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/archive/Jan2018.zip)
 
 The instructions for Python Installation with Anaconda distribution are listed as follows:
 
@@ -43,4 +48,7 @@ The instructions for Python Installation with Anaconda distribution are listed a
 
 * [Notes for Linux](./installing-on-linux.md)
 
-## [Talk material](./python-training-workshop.md)
+## Talk Material 
+<p class="f3">
+  <a class="btn btn-large btn-blue" href="./python-training-workshop.md" role="button">Talk Material</a>
+</p>

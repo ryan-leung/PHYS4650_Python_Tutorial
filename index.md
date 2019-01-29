@@ -42,13 +42,10 @@ The instructions for Python Installation with Anaconda distribution are listed a
 
 ## Python Installation with Anaconda distribution in Windows, MacOS and Linux
 
-* [Notes for Windows](./installing-on-windows.md)
+* [Notes for Windows](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/blob/master/installing-on-windows.md)
 
-* [Notes for MacOS](./installing-on-macos.md)
+* [Notes for MacOS](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/blob/master/installing-on-macos.md)
 
-* [Notes for Linux](./installing-on-linux.md)
+* [Notes for Linux](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/blob/master/installing-on-linux.md)
 
-## Talk Material 
-<p class="f3">
-  <a class="btn btn-large btn-blue" href="./python-training-workshop.md" role="button">Talk Material</a>
-</p>
+## [Talk Material](https://github.com/ryan-leung/PHYS4650_Python_Tutorial/blob/master/python-training-workshop.md)

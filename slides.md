@@ -133,16 +133,16 @@ The hand's on session requires a working python installations with Jupyter insta
 ---
 
 ## First Session:
-- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/01-Python-Syntax.ipynb)
-- [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/02-Python-Data-Structures.ipynb)
-- [Python Numpy Array](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/03-Python-Numpy-Array.ipynb)
+- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebooks/01-Python-Syntax.ipynb)
+- [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebooks/02-Python-Data-Structures.ipynb)
+- [Python Numpy Array](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebooks/03-Python-Numpy-Array.ipynb)
 
 ---
 ## Second Session:
-- [Introduction to Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/04-Introduction-to-Pandas.ipynb)
-- [Python Functions and Class](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/05-Python-Functions-Class.ipynb)
+- [Introduction to Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebooks/04-Introduction-to-Pandas.ipynb)
+- [Python Functions and Class](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebooks/05-Python-Functions-Class.ipynb)
 - [Python Matplotlib](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/06-Python-Matplotlib.ipynb)
-- [Python plotting with Astropy and AplPy](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-astropy-aplpy.ipynb)
+- [Python plotting with Astropy and AplPy](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebooks/07-Python-Astropy-Aplpy.ipynb)
 
 ---
 ## Online Platforms

@@ -1,16 +1,19 @@
 # Python Training Workshop 2019
 ## A brief introduction course to Python
 ### 31 Jan 2019
+Ryan Leung 
+(yanyan.ryan.leung@gmail.com)
+
+Please go to http://goo.gl/ for the materials. :)
 
 ---
 # Introduction
 
 ---
-## Python replaced Java as the second-most popular language on GitHub
-
-![Python replaced Java as the second-most popular language on GitHub, with 40
-percent more pull requests opened this year than
-last.](assets/images/python_rank.png)
+## Python: a very fast-growing language
+<center>
+<img src="assets/images/growth_major_languages.png" alt="drawing" width="600"/>
+</center>
 
 ---
 ## Era of Computation
@@ -23,33 +26,57 @@ last.](assets/images/python_rank.png)
 
 ---
 ## Python: a versatile language
-
+<center>
+  
 ![Python logo.](assets/images/Python-logo-notext.svg)
-Python is a **high-level** ,**object-oriented** and **Interpreted** programming language.  
+</center>
+
+Python is a 
+
+* high-level
+* object-oriented, and 
+* Interpreted
+
+programming language.  
 
 ---
-## Python: a High-level language
+## Python: a "High-level language"
 
-* Low level language: C, Fortran, Basic
-* user can care less about memory management or proper declaration of variables
-* less abstract than low-level language
-* less time to write and compile
-* relatively slower running time than some low-level language.
+* "Low level language": C, Fortran, Basic
+* **Level** means the accessiblity to system resources.
+* **High Level** : 
+  * care less about memory management or proper declaration of variables
+  * less abstract than low-level language
+  * less time to write and compile
+  * relatively slower running time than some low-level language (not always true).
 
 ---
 ## Community of Python users
 * Web backend developers
 * Data science
 * Machine learning
-  
+
+<center>
+<img src="assets/images/pythondata_2-map.png" alt="drawing" width="600"/>
+</center>
+<sub>
+Image courtesy of the Python Developers Survey 2017 Results website
+</sub>
+
 ---
-## Useful packages in Python
-* sympy
-* numpy
-* matplotlib
-* scipy
-* scikit-learn
-* pandas
+## Python 2 vs Python 3
+Results are quoted from https://www.jetbrains.com/research/devecosystem-2018/python/
+
+<center>
+<img src="assets/images/python2vspython3.png" alt="drawing" width="600"/>
+</center>
+
+---
+## Python Usages
+
+<center>
+<img src="assets/images/python_packages.png" alt="drawing" width="900"/>
+</center>
 
 ---
 # Installation

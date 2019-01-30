@@ -1,13 +1,12 @@
+<!-- $theme: default -->
+
 # Python Training Workshop 2019
-## A brief introduction course to Python
-### 31 Jan 2019
+## An introduction course to Python
+### Jan 31, 2019
 Ryan Leung 
 (yanyan.ryan.leung@gmail.com)
 
 Please go to http://goo.gl/ for the materials. :)
-
----
-# Introduction
 
 ---
 ## Python: a very fast-growing language
@@ -16,13 +15,12 @@ Please go to http://goo.gl/ for the materials. :)
 </center>
 
 ---
-## Era of Computation
+## A new era of computing
 
-* Open Source Codes everywhere
-* Tons of packages
-* Good documentations
+* Varieties of programming languages
 * Multi-core CPU and GPU support
-* Easily-accessible cloud framework
+* Easily-accessible cloud computing
+* Cloud microservices
 
 ---
 ## Python: a versatile language

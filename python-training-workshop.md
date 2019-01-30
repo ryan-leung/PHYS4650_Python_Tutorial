@@ -236,17 +236,15 @@ Click the ``Jupyter Notebook`` shortcut (Recommended). Or start the ``Anaconda N
 The hand's on session requires a working python installations with Jupyter installed. The following links are read-only, they do not run calculations in your computer. 
 
 ### First Session:
-- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-syntax.ipynb)
-- [Python Intrinsic Data Type](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-intrinsic-data-type.ipynb)
-- [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-data-structures.ipynb)
-- [Python Conditionals And Loops](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-conditionals-and-loops.ipynb)
+- [Python Syntax](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/01-Python-Syntax.ipynb)
+- [Python Data Structures](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/02-Python-Data-Structures.ipynb)
+- [Python Numpy Array](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/03-Python-Numpy-Array.ipynb)
 
 ### Second Session:
-- [Python Functions and Class](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-functions-class.ipynb)
-- [Python plotting with matplotlib](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-matplotlib.ipynb)
+- [Introduction to Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/04-Introduction-to-Pandas.ipynb)
+- [Python Functions and Class](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/05-Python-Functions-Class.ipynb)
+- [Python Matplotlib](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/06-Python-Matplotlib.ipynb)
 - [Python plotting with Astropy and AplPy](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-astropy-aplpy.ipynb)
-- [Python data analysis with Pandas](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/python-pandas-data-analysis.ipynb)
-- [Problem solving](https://nbviewer.jupyter.org/github/ryan-leung/PHYS4650_Python_Tutorial/blob/master/notebook/)
 
 In case you would like to have a copy, run the following command in your computer (Linux and Mac):
 ```bash

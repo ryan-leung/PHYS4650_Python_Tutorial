@@ -5,8 +5,10 @@
 ## [Talk Slides](./python_tutorial_2019.pdf)
 
 ## [Hands-on materials](https://tinyurl.com/ybz69nux)
+[https://tinyurl.com/ybz69nux](https://tinyurl.com/ybz69nux)
 
 ## [Download all notebooks](https://tinyurl.com/ycwj6kcs)
+[https://tinyurl.com/ycwj6kcs](https://tinyurl.com/ycwj6kcs)
 
 ## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.

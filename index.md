@@ -1,16 +1,18 @@
 # Python Training Workshop 2019
 
-![](assets/images/link.svg)
-
 ## [Talk material](./python-training-workshop.md)
 
-## [Talk Slides](./python_tutorial.pdf)
+## [Talk Slides](./python_tutorial_2019.pdf)
+
+## [Hands-on materials](https://tinyurl.com/ybz69nux)
+
+## [Download all notebooks](https://tinyurl.com/ycwj6kcs)
 
 ## Introduction ![](assets/images/ic_info_outline_black_48px.svg)
 This is a repository for the updated Python Training Workshop from the original Python Tutorial material.
 Here are the information of this year:
 
-> Date: Feb 1, 2019 (Thu)
+> Date: Jan 31, 2019 (Thu)
 >
 > Python installation help-desk: 
 > 4:00pm - 4:30pm

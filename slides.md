@@ -6,7 +6,16 @@
 Ryan Leung 
 (yanyan.ryan.leung@gmail.com)
 
-Please go to http://goo.gl/ for the materials. :)
+Please go to
+<div style="color: #000000; font-family: monospace; font-size: 1em;">
+https://tinyurl.com/y6wzrkl5 (introduction)
+</div>
+<div style="color: #000000; font-family: monospace; font-size: 1em;">
+https://tinyurl.com/ybz69nux (hands-on materials)
+</div>
+<div style="color: #000000; font-family: monospace; font-size: 1em;">
+https://tinyurl.com/ybz69nux (Download all notebooks)
+</div>
 
 ---
 ## Python: a very fast-growing language

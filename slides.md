@@ -14,7 +14,7 @@ https://tinyurl.com/y6wzrkl5 (introduction)
 https://tinyurl.com/ybz69nux (hands-on materials)
 </div>
 <div style="color: #000000; font-family: monospace; font-size: 1em;">
-https://tinyurl.com/ybz69nux (Download all notebooks)
+https://tinyurl.com/ycwj6kcs (Download all notebooks)
 </div>
 
 ---
